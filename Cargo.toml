@@ -2,6 +2,7 @@
 name = "xorfiles"
 version = "0.1.0"
 authors = ["alexjago"]
+license = "MIT OR Apache-2.0"
 edition = "2018"
 description = "XOR files together... with Rust!"
 
